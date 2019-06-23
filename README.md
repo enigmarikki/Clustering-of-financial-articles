@@ -13,3 +13,6 @@ There is only one file news.csv that contains date, headlines and text of the ne
 |id|The unique id of the news|
 |headline|The headline of the news in text|
 |text|The body of the news in text|
+
+### Refernces: 
+Please look into the elbow curve to find the optimal number of Clusters.
