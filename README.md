@@ -16,4 +16,6 @@ There is only one file news.csv that contains date, headlines and text of the ne
 
 ### Refernces: 
 ![image](https://github.com/enigmarikki/Clustering-of-financial-articles/blob/master/elbow.png)
+<br>
 Please look into the elbow curve to find the optimal number of Clusters.
+</br>
